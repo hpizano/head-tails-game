@@ -1,0 +1,1 @@
+let inputYerds = windo.prompt()
